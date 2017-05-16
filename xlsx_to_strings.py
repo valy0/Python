@@ -42,4 +42,4 @@ def clean_string(dirty_string):
 
 
 if __name__ == '__main__':
-    main()
+	main()
